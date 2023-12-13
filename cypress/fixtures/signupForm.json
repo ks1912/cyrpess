@@ -1,0 +1,9 @@
+{
+  "errors": {
+    "firstName": "First Name is required",
+    "lastName": "Last Name is required",
+    "userName": "User Name is required",
+    "password": "Password is required",
+    "confirmPassword": "Password is required"
+  }
+}
